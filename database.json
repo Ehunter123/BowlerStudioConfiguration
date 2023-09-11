@@ -8,6 +8,10 @@
       "https://github.com/Ehunter123/cylinder_Ehunter123.git",
       "1694443775212"
     ],
+    "https://github.com/Ehunter123/extrudePolygon_Ehunter123.git": [
+      "https://github.com/Ehunter123/extrudePolygon_Ehunter123.git",
+      "1694444414367"
+    ],
     "https://github.com/Ehunter123/sphere_Ehunter123.git": [
       "https://github.com/Ehunter123/sphere_Ehunter123.git",
       "1694443640623"
@@ -50,9 +54,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/Ehunter123/ToroidTest_Ehunter123.git:ToroidTest.groovy": [
-      "https://github.com/Ehunter123/ToroidTest_Ehunter123.git",
-      "ToroidTest.groovy"
+    "https://github.com/Ehunter123/extrudePolygon_Ehunter123.git:extrudePolygon.groovy": [
+      "https://github.com/Ehunter123/extrudePolygon_Ehunter123.git",
+      "extrudePolygon.groovy"
     ]
   },
   "BowlerStudioConfigs": {
