@@ -32,6 +32,10 @@
       "https://github.com/Ehunter123/helloWorld_Ehunter123.git",
       "1694444208708"
     ],
+    "https://github.com/Ehunter123/ToroidTest_Ehunter123.git": [
+      "https://github.com/Ehunter123/ToroidTest_Ehunter123.git",
+      "1694444332592"
+    ],
     "https://github.com/Ehunter123/triangles_Ehunter123.git": [
       "https://github.com/Ehunter123/triangles_Ehunter123.git",
       "1694444108718"
@@ -46,9 +50,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/Ehunter123/CamferedCylinder_Ehunter123.git:CamferedCylinder.groovy": [
-      "https://github.com/Ehunter123/CamferedCylinder_Ehunter123.git",
-      "CamferedCylinder.groovy"
+    "https://github.com/Ehunter123/ToroidTest_Ehunter123.git:ToroidTest.groovy": [
+      "https://github.com/Ehunter123/ToroidTest_Ehunter123.git",
+      "ToroidTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
