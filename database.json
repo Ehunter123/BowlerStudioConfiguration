@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1694444617384"
+    ],
     "https://github.com/Ehunter123/extrudePolygon_Ehunter123.git": [
       "https://github.com/Ehunter123/extrudePolygon_Ehunter123.git",
       "1694444414367"
@@ -57,12 +61,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/Ehunter123/ParabolaTest_Ehunter123.git:ParabolaTest.groovy": [
-      "https://github.com/Ehunter123/ParabolaTest_Ehunter123.git",
-      "ParabolaTest.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
