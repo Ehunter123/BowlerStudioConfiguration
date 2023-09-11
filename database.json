@@ -20,6 +20,10 @@
       "https://github.com/Ehunter123/ChamferedParts_Ehunter123.git",
       "1694432809582"
     ],
+    "https://github.com/Ehunter123/RoundedCylinderTest_Ehunter123.git": [
+      "https://github.com/Ehunter123/RoundedCylinderTest_Ehunter123.git",
+      "1694443879678"
+    ],
     "https://github.com/Ehunter123/cube_Ehunter123.git": [
       "https://github.com/Ehunter123/cube_Ehunter123.git",
       "1694432597270"
@@ -30,9 +34,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/Ehunter123/cylinder_Ehunter123.git:cylinder.groovy": [
-      "https://github.com/Ehunter123/cylinder_Ehunter123.git",
-      "cylinder.groovy"
+    "https://github.com/Ehunter123/RoundedCylinderTest_Ehunter123.git:RoundedCylinderTest.groovy": [
+      "https://github.com/Ehunter123/RoundedCylinderTest_Ehunter123.git",
+      "RoundedCylinderTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
