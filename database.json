@@ -4,6 +4,10 @@
       "Project ",
       "1694443341249"
     ],
+    "https://github.com/Ehunter123/roundedcube_Ehunter123.git": [
+      "https://github.com/Ehunter123/roundedcube_Ehunter123.git",
+      "1694443559909"
+    ],
     "https://github.com/Ehunter123/ChamferedParts_Ehunter123.git": [
       "https://github.com/Ehunter123/ChamferedParts_Ehunter123.git",
       "1694432809582"
@@ -18,13 +22,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/Ehunter123/ChamferedParts_Ehunter123.git:ChamferedParts.groovy": [
-      "https://github.com/Ehunter123/ChamferedParts_Ehunter123.git",
-      "ChamferedParts.groovy"
-    ],
-    "https://github.com/Ehunter123/cube_Ehunter123.git:cube.groovy": [
-      "https://github.com/Ehunter123/cube_Ehunter123.git",
-      "cube.groovy"
+    "https://github.com/Ehunter123/roundedcube_Ehunter123.git:roundedcube.groovy": [
+      "https://github.com/Ehunter123/roundedcube_Ehunter123.git",
+      "roundedcube.groovy"
     ]
   },
   "BowlerStudioConfigs": {
