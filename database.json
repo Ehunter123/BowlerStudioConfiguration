@@ -71,6 +71,10 @@
     "https://github.com/Ehunter123/ParabolaTest_Ehunter123.git": [
       "https://github.com/Ehunter123/ParabolaTest_Ehunter123.git",
       "1694444516655"
+    ],
+    "https://github.com/Ehunter123/javaCadHull_Ehunter123.git": [
+      "https://github.com/Ehunter123/javaCadHull_Ehunter123.git",
+      "1694556066474"
     ]
   },
   "studio-open-web": {},
@@ -78,9 +82,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/Ehunter123/intersect_Ehunter123.git:intersect.groovy": [
-      "https://github.com/Ehunter123/intersect_Ehunter123.git",
-      "intersect.groovy"
+    "https://github.com/Ehunter123/javaCadHull_Ehunter123.git:javaCadHull.groovy": [
+      "https://github.com/Ehunter123/javaCadHull_Ehunter123.git",
+      "javaCadHull.groovy"
     ]
   },
   "BowlerStudioConfigs": {
