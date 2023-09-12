@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1694554228606"
+    ],
     "https://github.com/Ehunter123/resizeScale_Ehunter123.git": [
       "https://github.com/Ehunter123/resizeScale_Ehunter123.git",
       "1694444691073"
@@ -61,12 +65,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/Ehunter123/resizeScale_Ehunter123.git:resizeScale.groovy": [
-      "https://github.com/Ehunter123/resizeScale_Ehunter123.git",
-      "resizeScale.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
