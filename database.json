@@ -8,6 +8,10 @@
       "https://github.com/Ehunter123/resizeScale_Ehunter123.git",
       "1694444691073"
     ],
+    "https://github.com/Ehunter123/union_Ehunter123.git": [
+      "https://github.com/Ehunter123/union_Ehunter123.git",
+      "1694554567460"
+    ],
     "https://github.com/Ehunter123/extrudePolygon_Ehunter123.git": [
       "https://github.com/Ehunter123/extrudePolygon_Ehunter123.git",
       "1694444414367"
@@ -70,9 +74,13 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/Ehunter123/moveRotate_Ehunter123.git:moveRotate.groovy": [
-      "https://github.com/Ehunter123/moveRotate_Ehunter123.git",
-      "moveRotate.groovy"
+    "https://github.com/Ehunter123/union_Ehunter123.git:union.groovy": [
+      "https://github.com/Ehunter123/union_Ehunter123.git",
+      "union.groovy"
+    ],
+    "https://github.com/Ehunter123/resizeScale_Ehunter123.git:resizeScale.groovy": [
+      "https://github.com/Ehunter123/resizeScale_Ehunter123.git",
+      "resizeScale.groovy"
     ]
   },
   "BowlerStudioConfigs": {
