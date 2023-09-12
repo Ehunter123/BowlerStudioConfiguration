@@ -81,12 +81,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/Ehunter123/javaCadHull_Ehunter123.git:javaCadHull.groovy": [
-      "https://github.com/Ehunter123/javaCadHull_Ehunter123.git",
-      "javaCadHull.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
