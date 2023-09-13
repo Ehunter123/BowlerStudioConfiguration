@@ -81,7 +81,12 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Ehunter123/EllaHunternametag.git:EllaHunternametag.groovy": [
+      "https://github.com/Ehunter123/EllaHunternametag.git",
+      "EllaHunternametag.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
