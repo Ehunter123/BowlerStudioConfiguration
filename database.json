@@ -24,6 +24,10 @@
       "https://github.com/Ehunter123/ChamferedParts_Ehunter123.git",
       "1694432809582"
     ],
+    "https://github.com/Ehunter123/TrextExtrudeExample_Ehunter123.git": [
+      "https://github.com/Ehunter123/TrextExtrudeExample_Ehunter123.git",
+      "1695059787103"
+    ],
     "https://github.com/Ehunter123/triangles_Ehunter123.git": [
       "https://github.com/Ehunter123/triangles_Ehunter123.git",
       "1694444108718"
@@ -31,10 +35,6 @@
     "https://github.com/Ehunter123/moveRotate_Ehunter123.git": [
       "Ehunter123/moveRotate_Ehunter123",
       "1694554460456"
-    ],
-    "https://github.com/Ehunter123/cube_Ehunter123.git": [
-      "https://github.com/Ehunter123/cube_Ehunter123.git",
-      "1694432597270"
     ],
     "https://github.com/Ehunter123/intersect_Ehunter123.git": [
       "https://github.com/Ehunter123/intersect_Ehunter123.git",
@@ -86,6 +86,10 @@
     "printCSG": true
   },
   "studio-open-git": {
+    "https://github.com/Ehunter123/TrextExtrudeExample_Ehunter123.git:TrextExtrudeExample.groovy": [
+      "https://github.com/Ehunter123/TrextExtrudeExample_Ehunter123.git",
+      "TrextExtrudeExample.groovy"
+    ],
     "https://github.com/Ehunter123/EllaHunternametag.git:EllaHunternametag.groovy": [
       "https://github.com/Ehunter123/EllaHunternametag.git",
       "EllaHunternametag.groovy"
@@ -95,7 +99,7 @@
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 18.0,
+    "fontsize": 18,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
