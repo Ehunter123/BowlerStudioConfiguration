@@ -90,6 +90,10 @@
       "https://github.com/Ehunter123/TrextExtrudeExample_Ehunter123.git",
       "TrextExtrudeExample.groovy"
     ],
+    "https://github.com/Ehunter123/SOSArdino.git:SOSArdino.ino": [
+      "https://github.com/Ehunter123/SOSArdino.git",
+      "SOSArdino.ino"
+    ],
     "https://github.com/Ehunter123/EllaHunternametag.git:EllaHunternametag.groovy": [
       "https://github.com/Ehunter123/EllaHunternametag.git",
       "EllaHunternametag.groovy"
